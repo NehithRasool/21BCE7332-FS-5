@@ -106,9 +106,8 @@ Submit a pull request
 This project is licensed under the MIT License.
 
 📞 Contact
-📧 Email: your-email@example.com
-🐦 Twitter: @your-twitter
-📂 GitHub: @your-username
+📧 Email: nehithrasool@gmail.com
+
 
 This README is now ready for GitHub! 🎉
 Let me know if you want any additional details. 🚀
